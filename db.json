@@ -1,0 +1,59 @@
+{
+  "ProductList": [
+    {
+      "productName": "Apple",
+      "category": "Fruites",
+      "freshness": "BrandName",
+      "price": 100,
+      "Comments": "best",
+      "date": "2022-07-29T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "OnePlus",
+      "category": "Electornics",
+      "freshness": "BrandName",
+      "price": 10000,
+      "Comments": "New Arrive",
+      "date": "2022-07-29T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "SamSung",
+      "category": "Electornics",
+      "freshness": "BrandName",
+      "price": 10000,
+      "Comments": "New Arrive",
+      "date": "2022-07-29T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "banana",
+      "category": "Fruites",
+      "freshness": "BrandName",
+      "price": 10000,
+      "Comments": "New Arrive",
+      "date": "2022-07-29T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "potato",
+      "category": "Vegetables",
+      "freshness": "Brand",
+      "price": 10,
+      "Comments": "Protien",
+      "date": "2022-07-29T18:30:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
